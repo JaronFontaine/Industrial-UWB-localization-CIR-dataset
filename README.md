@@ -12,6 +12,7 @@ Please always refer to our publication [1] and [2] when using our dataset.
 
 ## References
 [1] Fontaine, J., Ridolfi, M., Van Herbruggen, B., Shahid, A., & De Poorter, E. (2020). Edge inference for UWB ranging error correction using autoencoders. IEEE Access, 8, 139143-139155.
+
 [2] Van Herbruggen, B., Jooris, B., Rossey, J., Ridolfi, M., Macoir, N., Van den Brande, Q., ... & De Poorter, E. (2019). Wi-PoS: A low-cost, open source ultra-wideband (UWB) hardware platform with long range sub-GHz backbone. Sensors, 19(7), 1548.
 
 Contact
