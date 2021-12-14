@@ -14,4 +14,4 @@ Please always refer to our publication [1] when using our dataset.
 [1] Fontaine, J., Ridolfi, M., Van Herbruggen, B., Shahid, A., & De Poorter, E. (2020). Edge inference for UWB ranging error correction using autoencoders. IEEE Access, 8, 139143-139155.
 
 Contact
-If you need any further details about the dataset, then you can contact jaron.fontaine@ugent.be or adnan.shahid@ugent.be.
+If you need any further details about the dataset, then you can contact jaron.fontaine@ugent.be or ben.vanherbruggen@UGent.be.
