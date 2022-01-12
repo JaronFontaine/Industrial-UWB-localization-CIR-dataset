@@ -2,7 +2,7 @@
 Industrial UWB localization dataset containing Channel Impulse Response data (CIRs).
 
 ## Dataset description
-This dataset contains CIRs from 23 different positions in an industrial environment, as illustrated in the picture below.
+This dataset contains CIRs from 23 different positions in an [industrial environment](https://www.ugent.be/ea/idlab/en/research/research-infrastructure/industrial-iot-lab.htm), as illustrated in the picture below.
 
 ![UWB measurement location](UWB_measurement_location.png)
 
