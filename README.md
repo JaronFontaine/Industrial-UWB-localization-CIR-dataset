@@ -2,7 +2,14 @@
 Industrial UWB localization dataset containing Channel Impulse Response data (CIRs).
 
 ## Dataset description
-This dataset contains CIRs from 23 different positions in an industrial environment. These originate from a tag-anchor pair configured with two-way-ranging for distance estimations. In total, 21 anchors are placed in the area, allowing both Line-of-Sight (LOS) and Non-LOS (NLOS) signal propagation.
+This dataset contains CIRs from 23 different positions in an industrial environment, as illustrated in the picture below.
+
+![UWB measurement location](UWB_measurement_location.png)
+
+These originate from a tag-anchor pair configured with two-way-ranging for distance estimations. In total, 21 anchors are placed in the area, allowing both Line-of-Sight (LOS) and Non-LOS (NLOS) signal propagation, as illustrated below.
+
+![UWB measurement overview](UWB_measurement_overview.png)
+
 
 Further details on this dataset can be found in [1], where it was used extensivly for ranging error estimation using machine learning techniques.
 
